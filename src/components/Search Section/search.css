@@ -1,0 +1,33 @@
+.mainCont{
+    height: 500px;
+
+}
+.titleCont{
+    margin-bottom: 40px;
+}
+.titleCont > p{
+    color: rgba(0, 0, 0, 0.349);
+    letter-spacing: 10%;
+}
+.searchCont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 114px;
+    width: 1072px;
+
+}
+.inputCont{
+    height: 114px;
+    width: 770px;
+    background-color: rgba(0, 0, 0, 0.116) ;
+    padding: 20px 40px;
+    outline: none;
+    font-size: 18px;
+}
+.searchButton {
+    height: 114px;
+    width: 274px;
+    background-color: #5F62B2;
+    color: #ffff;
+}

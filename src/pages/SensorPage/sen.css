@@ -1,0 +1,17 @@
+.senseCont > textarea {
+    width: 500px;
+    height: 20vh;
+    border: 3px solid #5F63B9;
+    padding: 20px;
+    overflow: hidden;
+    overflow-y: scroll;
+    background-color: rgba(240, 248, 255, 0.671);
+}
+.sBtnnn{
+    height: 60px;
+    width: 200px;
+    border-radius: 8px;
+    background-color: #5F63B9;
+    color: white;
+    box-shadow: #5f64b981 0px 8px 24px;
+}

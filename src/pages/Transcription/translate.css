@@ -1,0 +1,71 @@
+
+
+.meenu > select{
+    height: 50px;
+    width: 400px;
+    padding: 0.4rem;
+    border: 5px solid #5F63B9;
+}
+.tButtons{
+    width: 700px;
+}
+.tBtn {
+    height: 50px;
+    min-width: 170px;
+    max-width: 260px;
+    background-color: #5F63B9;
+    color: white;
+    border-radius: 10px;
+    outline: none;
+
+}
+.expBtn{
+    height: 50px;
+    width: 190px;
+    background: none;
+    outline: none;
+    border-radius: 30px;
+    border: 5px solid #F180A2;
+    color: #F180A2;
+}
+
+.transcript{
+    height: 88vh;
+}
+.transcript-box{
+    width: 450px;
+    height: 570px;
+    background-color: #dfdfdf44;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.sub-box{
+    height: 143px;
+    width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sub-box:hover{
+    background-color: #dfdfdf86;
+}
+.cont-box > textarea {
+    height: 95px;
+    width: 400px;
+}
+
+.sBtn{
+    height: 30px;
+    width: 80px;
+    border-radius: 8px;
+    background-color: #5F63B9;
+    color: white;
+    box-shadow: #5f64b981 0px 8px 24px;
+}
+.sBtnn{
+    height: 30px;
+    width: 120px;
+    border-radius: 8px;
+    background-color: #5F63B9;
+    color: white;
+    box-shadow: #5f64b981 0px 8px 24px;
+}

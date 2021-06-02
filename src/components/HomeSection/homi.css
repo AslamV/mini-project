@@ -1,0 +1,21 @@
+.mainCont{
+    height: 500px;
+
+}
+.titleCont{
+    margin-bottom: 40px;
+}
+.titleCont > p{
+    color: rgba(0, 0, 0, 0.349);
+    letter-spacing: 10%;
+}
+.tBtn {
+    height: 50px;
+    min-width: 170px;
+    max-width: 260px;
+    background-color: #5F63B9;
+    color: white;
+    border-radius: 10px;
+    outline: none;
+
+}

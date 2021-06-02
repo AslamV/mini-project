@@ -1,0 +1,20 @@
+.ftCard{
+    width: 269px;
+    height: 280px;
+    padding: 20px;
+    margin-left: 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    transition: all ease-in 200ms;
+    /* background-color: rgb(117, 118, 189); */
+}
+.ftCard:hover{
+    transform: scale(1.05);
+}
+.ftCard > p{
+    width: 230px;
+    line-height: 168%;
+}
+ftImg{
+    color: #5F63B9;
+    background-color: #5F63B9;
+}
